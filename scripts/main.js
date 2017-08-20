@@ -38,7 +38,7 @@ myImage.onclick = function()
 {
     var mySrc = myImage.getAttribute('src');
 
-    if(mySrc = '/Users/SureshNapster/Documents/HTML/MyPortfolio/images/goku.png') {
+    if(mySrc = '/images/goku.png') {
         myImage.setAttribute('src','/images/goku2.jpg');
     }
     else {
